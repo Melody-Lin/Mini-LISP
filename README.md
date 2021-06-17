@@ -1,5 +1,4 @@
 # Mini-LISP
-
 ### Summary  
 • Final project in the course of "Neural Network"  
 • Using Yacc and Lex to build this project  
