@@ -1,6 +1,6 @@
 # Mini-LISP
 ### Summary  
-• Final project in the course of "Neural Network"  
+• Final project in the course of "Compiler"  
 • Using Yacc and Lex to build this project  
 
 ### Basic Features
